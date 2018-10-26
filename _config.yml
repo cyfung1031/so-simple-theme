@@ -71,8 +71,8 @@ search_full_content: false # can have performance implications for large sites
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
+#  - jekyll-sitemap
+#  - jekyll-feed
   - jekyll-paginate
 
 # Front Matter Defaults
